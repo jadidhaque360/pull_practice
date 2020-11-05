@@ -1,0 +1,23 @@
+table, th, td {
+  border: 1px solid black;
+  font-family: Helvetica;
+}
+
+table{
+	height: 200px;
+	width: 300px;
+}
+
+td {
+	text-align: center;
+}
+
+ul {
+  
+  font-family: Arial;
+}
+
+ol {
+  
+  font-family: Monotype corsiva;
+}
